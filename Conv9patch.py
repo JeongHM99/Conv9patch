@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk, ImageDraw
 
-
 class NinePatchEditor:
     def __init__(self):
         self.root = tk.Tk()
